@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.6.33829.357
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lazuli", "Lazuli.csproj", "{F9C51A45-03E1-47C1-8F3E-164454E0764F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lazuli", "Lazuli\Lazuli.csproj", "{F9C51A45-03E1-47C1-8F3E-164454E0764F}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lazuli.Desktop", "..\Lazuli.Desktop\Lazuli.Desktop.csproj", "{A32D27EC-DB04-4C15-9F03-7E8AA5C60352}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lazuli.Desktop", "Lazuli.Desktop\Lazuli.Desktop.csproj", "{A32D27EC-DB04-4C15-9F03-7E8AA5C60352}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
